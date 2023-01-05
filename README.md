@@ -10,7 +10,7 @@
 
 
 
-***Skills: HTML   </>  / CSS  🟠🟡🔵   / JAVASCRIPT  (^///^)  / PYTHON  🐍  / JAVA ☕ / C ©  ***
+Skills: HTML   </>  / CSS  🟠🟡🔵   / JAVASCRIPT  (^///^)  / PYTHON  🐍  / JAVA ☕ / C ©  
 
 
 

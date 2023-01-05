@@ -6,7 +6,7 @@
 
 
 
-I am Hari Narayanan .R I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.
+***I am Hari Narayanan .R I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.***
 
 
 

@@ -6,7 +6,7 @@
 #### Who am I ? 🤔***
 
 
-***I am Hari Narayanan R. I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.***
+***I am Hari Narayanan R. I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.*
 
 
 
@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![image](https://user-images.githubusercontent.com/117098032/211061175-ad012d37-5cee-481f-a00e-ffdf94070ea1.png)
 
 
 

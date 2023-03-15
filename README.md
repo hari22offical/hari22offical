@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%">
 </div>
-<h2 align="center">I,M HARI NARAYANAN</h2>
+<h1 align="center">I,M HARI NARAYANAN</h1>
 <br>
 <h3 align="center">I AM UPCOMING DATA SCIENTIST || FRONT END DEVELOPER </h3></font>
 <br>
@@ -18,7 +18,7 @@
  <br>
 - 🔭 I’m currently working on small  machine learning like titanic dataset, space_titanic dataset , campus placement and so on.................
 - 🌱 I’m currently learning  machine learning algorithm and data analytics technique..........
-- 🤔 I’m looking for help with senior data scientists and data analysis........
+- 🤔 I’m looking for help with senior data scientists and data analysis
 
 
 #### knowledge:

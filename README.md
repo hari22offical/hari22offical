@@ -1,5 +1,5 @@
-### Hi there 👋,
-<h1>I,m Hari narayanan .R</h1>
+<h1 align="centre"> Hi there 👋</h1>
+<h1>I,m Hari narayanan</h1>
  ### I am upcoming DATA SCIENTIST || FRONT END DEVELOPER 
 
 ![I am upcoming DATA SCIENTIST || FRONT END DEVELOPER ](https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif)

@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Hari narayanan .R
+### Hi there 👋,
+<h1>I,m Hari narayanan .R</h1>
  ### I am upcoming DATA SCIENTIST || FRONT END DEVELOPER 
 
 ![I am upcoming DATA SCIENTIST || FRONT END DEVELOPER ](https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif)

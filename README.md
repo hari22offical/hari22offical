@@ -1,5 +1,6 @@
-<h1 align="center"> HI THERE 👋</h1>
-<br>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%">
+</div>
 <h2 align="center">I,M HARI NARAYANAN</h2>
 <br>
 <h3 align="center">I AM UPCOMING DATA SCIENTIST || FRONT END DEVELOPER </h3></font>

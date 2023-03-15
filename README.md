@@ -1,14 +1,20 @@
-<h1 align="centre"> Hi there 👋</h1>
-<h1>I,m Hari narayanan</h1>
- ### I am upcoming DATA SCIENTIST || FRONT END DEVELOPER 
+<h1 align="center"> HI THERE 👋</h1>
+<br>
+<h2 align="center">I,M HARI NARAYANAN</h2>
+<br>
+<h3 align="center">I AM UPCOMING DATA SCIENTIST || FRONT END DEVELOPER </h3></font>
+<br>
+<div align="center">
+ <img src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
+</div>
+<br>
+<details> 
+ <summary><h4><i><b>Who am I ? 🤔</b></i></h4></summary>
 
-![I am upcoming DATA SCIENTIST || FRONT END DEVELOPER ](https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif)
+*I am Hari Narayanan R. I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.*
 
-#### Who am I ? 🤔***
-
-
-***I am Hari Narayanan R. I am a self-motivated Developer👨‍💻, passionate Data Scientist👨‍🔬 handling some state-of-the-art AI technologies🌟 across various disciplines. Fusing together Data Science and Software Engineering, I am now in the track of taking powerful AI Research and producing into applications that reach millions.*
-
+ </details>
+ <br>
 - 🔭 I’m currently working on small  machine learning like titanic dataset, space_titanic dataset , campus placement and so on.................
 - 🌱 I’m currently learning  machine learning algorithm and data analytics technique..........
 - 🤔 I’m looking for help with senior data scientists and data analysis........
@@ -56,6 +62,38 @@
 
 harinarayanan22052004@gmail.com
 
+
+
+<details> 
+ <summary><h4> 🌐 <i>CODING STUFFS</i></h4></summary>
+  
+ <div align="center">
+  
+   #### 👩🏻‍💻 <i>PROGRAMMING & MARKUP LANGUAGES</i>
+   ![Generic badge](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/MY%20SQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+
+   #### 🧰 <i>LIBRARIES & FRAMEWORK</i>
+   ![Generic badge](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/OPENCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/STREAMLIT-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
+
+  
+   #### ✍🏻 <i>I WRITE MY QUERIES AT:</i>
+   
+   [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
+   [![Generic badge](https://img.shields.io/badge/QUORA-B92B27?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
+   <div>
+</details>
+
+<details> 
+ <summary><h4> 📈 <i>GITHUB STATS</i></h4></summary>
+  
+ <div align="center">
 
 
 

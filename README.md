@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Hari narayanan .R
  ### I am upcoming DATA SCIENTIST || FRONT END DEVELOPER 
 
-![I am upcoming DATA SCIENTIST || FRONT END DEVELOPER ](https://www.virajetech.com/assets/uploads/blog_images/53f66-what-is-data-science.jpg)
+![I am upcoming DATA SCIENTIST || FRONT END DEVELOPER ](https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif)
 
 #### Who am I ? 🤔***
 

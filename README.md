@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%">
 </div>
-<h1 align="center">I,M HARI NARAYANAN</h1>
-<br>
+
+
 <h3 align="center">I AM UPCOMING DATA SCIENTIST || FRONT END DEVELOPER </h3></font>
 <br>
 <div align="center">
@@ -16,47 +16,87 @@
 
  </details>
  <br>
-- 🔭 I’m currently working on small  machine learning like titanic dataset, space_titanic dataset , campus placement and so on.................
-- 🌱 I’m currently learning  machine learning algorithm and data analytics technique..........
-- 🤔 I’m looking for help with senior data scientists and data analysis
+ 
+ ### <div align="center">I'm HARI NARAYANAN , AN ENIGMATIC CODER!</div>  
+  
+
+- 🔭 I’m currently working on becoming a Data Scientist and Front End Developer 
+  
+
+- ❓ Ask me about anything related to Front end development,  Data Science 
+  
+
+- ⚡ I Look For Help For Senior Data Scientists And Front end developer
+  
+
+<br/>  
 
 
-#### knowledge:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<details> 
+ <summary><h4> 🌐 <i>KNOWLEDGE</i></h4></summary>
+ 
+ <div align="center">
+  
+   #### 👩🏻‍💻 <i>PROGRAMMING  LANGUAGES</i>
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![sql](https://user-images.githubusercontent.com/117098032/211061175-ad012d37-5cee-481f-a00e-ffdf94070ea1.png)
-![numpy](https://user-images.githubusercontent.com/117098032/211061305-ef9c59f1-a9d7-448d-b4d0-c0ada831c518.png)
-![pandas](https://user-images.githubusercontent.com/117098032/211061367-27e1c80e-b140-45c2-baf4-1e12f95fa285.png)
 
 
+   #### 👩🏻‍💻 <i>DATA SCIENCE</i>
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+ 
+  #### 👩🏻‍💻 <i>FRONT END DEVELOPMENT</i>
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ 
+   #### 👩🏻‍💻 <i>TOOLS</i>
+ 
+ ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+ 
+ 
+ #### 👩🏻‍💻 <i>🧑‍💻 Developer/Forums</i>
+ 
+ ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+ ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-#### tools:
-![image](https://user-images.githubusercontent.com/117098032/211061822-501f72a3-c200-4f60-9888-b3bf172e4b91.png)
-![image](https://user-images.githubusercontent.com/117098032/211061887-96db0e83-a8ca-40e8-bbf5-67559372dcd2.png)
-![image](https://user-images.githubusercontent.com/117098032/211061920-d836c507-d6c2-4393-bd6f-37ef2924c091.png)
-![image](https://user-images.githubusercontent.com/117098032/211061957-8c99a407-c0d2-4a1c-83d6-b9db95ac771c.png)
-![image](https://user-images.githubusercontent.com/117098032/211061995-4f9e1e3c-8ca2-487b-9bd5-245b641a572f.png)
-![image](https://user-images.githubusercontent.com/117098032/211062043-afc75104-ef4c-43c6-9dcf-ea8234101e53.png)
-![image](https://user-images.githubusercontent.com/117098032/211062084-16ff11ef-5c3f-498c-87ec-ebd8bd950fa3.png)
+ #### 👩🏻‍💻 <i><>💻   I Write Quire AT: </i>
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 
+   <div>
+</details>
 
+<details> 
+ <summary><h4> <i>📫HOW YOU CAN REACH ME:</i></h4></summary>
 
-#### I WRITE MY QUERIES AT:
-![image](https://user-images.githubusercontent.com/117098032/211062207-69a8dcb7-d1da-4a19-8c7a-aeee8a128e34.png)
-![image](https://user-images.githubusercontent.com/117098032/211062242-a271660c-631b-47ce-b14d-fa689f565b78.png)
-
-
-
-
-- #### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hari-narayanan-8bb040229)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari22offical)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harinarayanan22/account)
 
-![image](https://user-images.githubusercontent.com/117098032/211065777-7ec4dc03-8d9b-407b-aac4-a0e31a8c7cf9.png)
+ </details>
+
 
 
 
@@ -65,31 +105,7 @@ harinarayanan22052004@gmail.com
 
 
 
-<details> 
- <summary><h4> 🌐 <i>CODING STUFFS</i></h4></summary>
-  
- <div align="center">
-  
-   #### 👩🏻‍💻 <i>PROGRAMMING & MARKUP LANGUAGES</i>
-   ![Generic badge](https://img.shields.io/badge/PYTHON-3776AB?logo=python&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/MY%20SQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 
-   #### 🧰 <i>LIBRARIES & FRAMEWORK</i>
-   ![Generic badge](https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?logo=scikitlearn&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/OPENCV-5C3EE8?logo=opencv&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/STREAMLIT-FF4B4B?logo=streamlit&logoColor=fff&style=flat)
-
-  
-   #### ✍🏻 <i>I WRITE MY QUERIES AT:</i>
-   
-   [![Generic badge](https://img.shields.io/badge/STACK%20OVERFLOW-F58025?logo=stackoverflow&logoColor=fff&style=flat)](https://stackoverflow.com/users/20901973/jeyasri-senthil)
-   [![Generic badge](https://img.shields.io/badge/QUORA-B92B27?logo=quora&logoColor=fff&style=flat)](https://www.quora.com/profile/Jeyasri-Senthil)
-   <div>
-</details>
 
 <details> 
  <summary><h4> 📈 <i>GITHUB STATS</i></h4></summary>

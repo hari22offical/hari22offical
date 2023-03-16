@@ -94,14 +94,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hari-narayanan-8bb040229)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari22offical)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harinarayanan22/account)
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harinarayanan22052004@gmail.com)
  </details>
 
 
 
-
-
-harinarayanan22052004@gmail.com
 
 
 
@@ -114,7 +111,6 @@ harinarayanan22052004@gmail.com
 
 
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hari22offical)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -123,7 +119,6 @@ harinarayanan22052004@gmail.com
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hari22offical&show_icons=true&count_private=true)  
   
 
-![GitHub metrics](https://metrics.lecoq.io/hari22offical)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hari22offical)  
 

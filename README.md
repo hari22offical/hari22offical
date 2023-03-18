@@ -2,13 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:50%">
 </div>
 
-
+<hr>
 <h3 align="center">I AM UPCOMING DATA SCIENTIST || FRONT END DEVELOPER </h3></font>
 <br>
 <div align="center">
  <img src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 </div>
 <br>
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IN+ORDER+TO+BE+IRREPLACEABLE.;ONE+MUST+ALWAYS+BE+DIFFERENT.)
+
 <details> 
  <summary><h4><i><b>Who am I ? 🤔</b></i></h4></summary>
 
@@ -16,9 +20,8 @@
 
  </details>
  <br>
- 
- ### <div align="center">I'm HARI NARAYANAN , AN ENIGMATIC CODER!</div>  
-  
+  <div align="center"><b>I'm HARI NARAYANAN , AN ENIGMATIC CODER!</b></div>  
+  <br>
 
 - 🔭 I’m currently working on becoming a Data Scientist and Front End Developer 
   
@@ -31,7 +34,7 @@
 
 <br/>  
 
-
+<hr>
 
 <details> 
  <summary><h4> 🌐 <i>KNOWLEDGE</i></h4></summary>
@@ -87,7 +90,7 @@
 
    <div>
 </details>
-
+<hr>
 <details> 
  <summary><h4> <i>📫HOW YOU CAN REACH ME:</i></h4></summary>
 
@@ -103,7 +106,7 @@
 
 
 
-
+<hr>
 <details> 
  <summary><h4> 📈 <i>GITHUB STATS</i></h4></summary>
   
